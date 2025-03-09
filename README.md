@@ -1,7 +1,11 @@
 # 🚀 Cold_Email_Generation
 
 ## 📝 Overview
-This project automates **job scraping, semantic search, and personalized cold emailing** using **LangChain, Groq (Mixtral-8x7B), ChromaDB, and Streamlit**.
+This project automates **job scraping, semantic search, and personalized cold emailing** using **LangChain, Groq (Mixtral-8x7B), ChromaDB, and Streamlit**. It allows users to input the URL of a company's careers page. The tool then extracts job listings from that page and generates personalized cold emails.
+
+### For example:
+- **LinkedIn** needs software engineer and is spending time in hiring process.
+- **Atliq** is software developement company which can provide engineers to LinkenIn. So, a person from Atliq is going to reach out to LinkedIn via cold mail. 
 
 ---
 
