@@ -52,7 +52,7 @@ streamlit run main.py
 ---
 
 ## 📸 UI Screenshot
-
+![Streamlit UI](screenshot(123).png)
 ---
 
 ## 🛠 Future Enhancements
