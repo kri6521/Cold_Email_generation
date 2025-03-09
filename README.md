@@ -35,7 +35,7 @@ This project automates **job scraping, semantic search, and personalized cold em
 ---
 
 ## 🖥 Setup API Keys
-- **Groq API Key**: Obtain from Groq{https://groq.com/}
+- **Groq API Key**: Obtain from [Groq](https://groq.com/)
 
 ---
 
@@ -48,3 +48,10 @@ streamlit run main.py
 ---
 
 ## 📸 UI Screenshot
+
+---
+
+## 🛠 Future Enhancements
+✅ Automate email sending via SMTP or LinkedIn API
+✅ Improve LLM accuracy for better job parsing
+✅ Add more portfolio filtering options
