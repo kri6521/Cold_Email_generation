@@ -52,7 +52,7 @@ streamlit run main.py
 ---
 
 ## 📸 User Interface
-![Screenshot (123)](https://github.com/user-attachments/assets/b59f2f05-bcea-4e8f-b670-c96d811218f5)
+![WhatsApp Image 2025-03-09 at 23 10 41_9bb058d9](https://github.com/user-attachments/assets/d55eb9c7-9e68-4bb0-9e80-7c5694afce7a)
 
 ---
 
