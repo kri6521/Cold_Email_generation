@@ -52,6 +52,6 @@ streamlit run main.py
 ---
 
 ## 🛠 Future Enhancements
-- ✅ Automate email sending via SMTP or LinkedIn API
-- ✅ Improve LLM accuracy for better job parsing
-- ✅ Add more portfolio filtering options
+- Automate email sending via SMTP or LinkedIn API
+- Improve LLM accuracy for better job parsing
+- Add more portfolio filtering options
